@@ -1,12 +1,12 @@
 <!-- Profile Header -->
-<h1 align="center">Hallo, I'm ickorwen 👋</h1>
+
 <p align="center">
   <img src="https://github.com/ickorwen/ickorwen/blob/main/profile_banner.png" alt="Profile banner" width="80%" />
 </p>
-
+<h1 align="center">Hallo, I'm Ickor 👋</h1>
 <p align="center">
   <b>Welcome to my GitHub profile!</b><br>
-  Com Sci student that likes Gamedev, Webdev and app dev
+  yes
 </p>
 
 
