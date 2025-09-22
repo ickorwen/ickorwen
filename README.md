@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Welcome to my GitHub profile!</b><br>
-  Passionate developer, lifelong learner, and creator building cool things with code.
+  Com Sci student that likes Gamedev, Webdev and app dev
 </p>
 
 
