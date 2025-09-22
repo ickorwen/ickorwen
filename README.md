@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![ickorwen's Stats](https://github-readme-stats.vercel.app/api?username=ickorwen&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 <!--
 **ickorwen/ickorwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
