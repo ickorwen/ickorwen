@@ -5,7 +5,16 @@
 </p>
 <h1 align="center">Welcome to my profile</h1>
 
-## Github Stats 👋
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,blender,cpp,java,css,html,js,react,ts,nodejs,vite,figma,robloxstudio&perline=7" />
+  </a>
+</p>
+
+
+## Github Stats :P
 ![ickorwen's Stats](https://github-readme-stats.vercel.app/api?username=ickorwen&theme=yeblu&show_icons=true&hide_border=false&count_private=true)
 
 ![ickorwen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ickorwen&theme=yeblu&hide_border=false)
